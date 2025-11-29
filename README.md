@@ -1,7 +1,4 @@
 # "Islamec Center" Website
-
-Professional project README with testing and GitHub Pages deployment instructions.
-
 ---
 
 ## Project Overview
